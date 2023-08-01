@@ -2,7 +2,7 @@ const Sponsors = () => {
   return (
     <div className="w-full h-full relative flex flex-col gap-6 justify-center items-center">
       <h1 className="text-4xl md:text-7xl font-black text-muted-foreground">
-        Neko<span className="text-green-600">moe</span>
+        SDM<span className="text-green-600">Nime</span>
       </h1>
       <p className="lg:text-xl text-muted-foreground">
         Nonton anime subtitle Indonesia Gratis tanpa Iklan!
